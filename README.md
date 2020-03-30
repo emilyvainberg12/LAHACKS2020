@@ -4,8 +4,8 @@ Patient Matching Challenge
 Group Members
 - Pranav Grover
 - Omer Sasson 
-- Amy Seo
 - Emily Vainberg 
+- Amy Seo
 - Edmund Zhi
 
    ## Set up instructions
